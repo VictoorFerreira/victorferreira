@@ -32,11 +32,11 @@
 <img align="center" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Victor-Git">
 </div>
   
-![Snake animation](https://github.com/VictoorFerreira/VictoorFerreira/blob/output/github-contribution-grid-snake.svg)
-
 ## Redes Sociais
 <div>
 <a href="https://instagram.com/vfsilva_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:vhfsilva2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victorsilva0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/VictoorFerreira/VictoorFerreira/blob/output/github-contribution-grid-snake.svg)
