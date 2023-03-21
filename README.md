@@ -1,9 +1,10 @@
 ## Olá! Eu sou Victor Ferreira
 <div>
-  <a href="https://github.com/VictoorFerreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoorFerreira&show_icons=true&theme=dark&include_all_comits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoorFerreira&layout=demo&langs_count=16&theme=dark">
+<a href="https://github.com/VictoorFerreira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoorFerreira&show_icons=true&theme=dark&include_all_comits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoorFerreira&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <div>
 <img align="center" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Victor-Java">
 <img align="center" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Victor-C">
