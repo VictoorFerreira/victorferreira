@@ -31,6 +31,8 @@
 <img align="center" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Victor-Github">
 <img align="center" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Victor-Git">
 </div>
+  
+![Snake animation](https://github.com/VictoorFerreira/VictoorFerreira/blob/output/github-contribution-grid-snake.svg)
 
 ## Redes Sociais
 <div>
