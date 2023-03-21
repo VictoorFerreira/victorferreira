@@ -1,24 +1,23 @@
 ## Olá! Eu sou Victor Ferreira
 <div>
   <a href="https://github.com/VictoorFerreira">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictoorFerreira&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoorFerreira&layout=demo&langs_count=16&theme=dark"/>
+  <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=VictoorFerreira&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img height:"150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoorFerreira&layout=demo&langs_count=32&theme=dark"/>
 </div>
 <div>
-<img align="center" alt="Victor-Csharp" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Victor-C" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-<img align="center" alt="Victor-css3" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="center" alt="Victor-debian" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-<img align="center" alt="Victor-html" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="center" alt="Victor-javascript" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="Victor-Java" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-<img align="center" alt="Victor-trello" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+<img align="center" alt="Victor-C" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<img align="center" alt="Victor-cplusplus" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Victor-html" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center" alt="Victor-css3" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="center" alt="Victor-javascript" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="Victor-Csharp" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 <img align="center" alt="Victor-vscode" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Victor-debian" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
 <img align="center" alt="Victor-ubuntu" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-<img align="center" alt="Victor-linkedin" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 <img align="center" alt="Victor-google" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg">
 <img align="center" alt="Victor-firefox" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg">
-<img align="center" alt="Victor-cplusplus" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Victor-linkedin" height=30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </div>
 
 ##
